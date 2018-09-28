@@ -1,6 +1,5 @@
 # SocialApplication-FrontEnd
 SocialAppy front-end
-Front End SocialAppy Application. <br>
 
 <strong>This project stills in development mode</strong>
 
