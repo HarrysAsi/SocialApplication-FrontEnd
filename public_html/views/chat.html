@@ -1,0 +1,45 @@
+<div data-role="page" class="chat-page ui-page-theme-d">
+    <div data-role='header' data-theme="d">
+        <a href="#" id="menu_button" data-toggle="collapse" data-target=".navbar-collapse"
+           class="ui-btn ui-shadow ui-corner-all ui-icon-bars ui-btn-icon-notext"></a>
+        <h1 class="title"> Chat </h1>
+    </div>
+
+    <div role="main" class="ui-content">
+        <!--MENU-->
+        <div class="collapse navbar-collapse navbar-default-custom">
+            <ul class="nav navbar-nav">
+                <li id="menu_home"><a href="#">Home</a></li>
+                <li id="menu_profile"><a href="#">Profile</a></li>
+                <li id="menu_friends"><a href="#">My Friends</a></li>
+                <li id="menu_logout"><a href="#">Logout</a></li>
+            </ul>
+        </div>
+
+        <div class="col-sm-12 frame" style="margin-bottom: 55px">
+            <ul class="list-unstyled" id="chat_list">
+
+            </ul>
+            <div>
+                <div class="msj-rta macro" style="width: 93%; margin: 0px">
+                    <div class="text text-r" style="background:whitesmoke !important">
+                        <input id="my_message" class="mytext" style="font-size: 18px" placeholder="Type a message"/>
+                    </div>
+                    <i id="send_message_icon" class="fas fa-envelope-square fa-4x" style="margin-top: 5px"></i>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <div data-role="footer" class="footer" data-theme="b" data-position="fixed" style="position:fixed;bottom:0;">
+        <div data-role="navbar">
+            <ul>
+                <li id="main"><a href="#"><i class="fas fa-globe fa-3x"></i></a></li>
+                <li id="global_conversations"><a href="#" class="ui-btn-active"><i
+                        class="far fa-comments fa-3x"></i></a></li>
+                <li id="global_friends"><a href="#"><i class="fas fa-user-friends fa-3x"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>

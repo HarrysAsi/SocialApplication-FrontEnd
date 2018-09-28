@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/public_html/js/controllers/views/Chat.js" line="30" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="458c12d5-8a2a-4786-944b-0cf539fb2525" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SocialApplication$index_html__2_.dat" NAME="index.html (2) Coverage Results" MODIFIED="1532991210477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SocialApplication$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1532941525269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-349812740">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="454" />
+          <entry key="js" value="3590" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="454" />
+          <entry key="JavaScript" value="3590" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="6" />
+          <entry key="js" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="6" />
+          <entry key="JavaScript" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2136738266">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="2" />
+          <entry key="js" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="79" />
+          <entry key="js" value="2964" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="79" />
+          <entry key="JavaScript" value="2964" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>formhe</find>
+      <find>alert</find>
+      <find>active</find>
+      <find>nav</find>
+      <find>.member_list</find>
+      <find>chat-img</find>
+      <find>global</find>
+      <find>.text</find>
+      <find>frame</find>
+      <find>ConversationMess</find>
+      <find>lis</find>
+      <find>list</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public_html/views/global_conversations.html" />
+        <option value="$PROJECT_DIR$/public_html/views/global_conversation.html" />
+        <option value="$PROJECT_DIR$/public_html/js/models/Conversation.js" />
+        <option value="$PROJECT_DIR$/public_html/css/conversation-style.css" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/fragments/GlobalConversation.js" />
+        <option value="$PROJECT_DIR$/public_html/views/chat.html" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/server_connection/ServerConnection.js" />
+        <option value="$PROJECT_DIR$/public_html/css/chat-style.css" />
+        <option value="$PROJECT_DIR$/public_html/js/models/ConversationMessages.js" />
+        <option value="$PROJECT_DIR$/public_html/js/models/Message.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/MessagesService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/server_connection/fragments/ChatConnection.js" />
+        <option value="$PROJECT_DIR$/public_html/js/models/AnnouncementsLikes.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/AddAnnouncement.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/AddAnnouncementService.js" />
+        <option value="$PROJECT_DIR$/public_html/views/edit_profile.html" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/Chat.js" />
+        <option value="$PROJECT_DIR$/public_html/js/database_helper/SharedPreferences.js" />
+        <option value="$PROJECT_DIR$/public_html/js/functions/EncodeToBase64.js" />
+        <option value="$PROJECT_DIR$/public_html/js/functions/FormHelper.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/UpdateUserService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/EditProfile.js" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/fragments/GlobalFriends.js" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/MenuProfile.js" />
+        <option value="$PROJECT_DIR$/public_html/views/friend_requests.html" />
+        <option value="$PROJECT_DIR$/public_html/js/Paging.js" />
+        <option value="$PROJECT_DIR$/public_html/js/database_helper/Instances.js" />
+        <option value="$PROJECT_DIR$/public_html/views/main.html" />
+        <option value="$PROJECT_DIR$/public_html/views/menu_friend_requests.html" />
+        <option value="$PROJECT_DIR$/public_html/js/models/FriendRequest.js" />
+        <option value="$PROJECT_DIR$/public_html/libs/bootstrap-3.3.7-dist/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/UsersService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/RemoveFriendService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/FriendsService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/SuggestedUsersService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/MenuFriends.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/AddFriendService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/MenuRecommendedUsers.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/DeclineFriendRequestServid3.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/AcceptFriendRequestService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/DeclineFriendRequestService.js" />
+        <option value="$PROJECT_DIR$/public_html/index.html" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/FriendRequestsService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/MenuFriendRequest.js" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/Login.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/ConnectionAjax.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/LoginService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/AllModelsService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/connection/services/AnnouncementLikesService.js" />
+        <option value="$PROJECT_DIR$/public_html/js/controllers/views/Main.js" />
+        <option value="$PROJECT_DIR$/public_html/js/database_helper/Database.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/public_html/libs/fontawesome-5.0.13/advanced-options/use-with-node-js/fontawesome-common-types/package.json" />
+      <path value="$PROJECT_DIR$/public_html/libs/fontawesome-5.0.13/advanced-options/use-with-node-js/fontawesome-free-brands/package.json" />
+      <path value="$PROJECT_DIR$/public_html/libs/fontawesome-5.0.13/advanced-options/use-with-node-js/fontawesome-free-regular/package.json" />
+      <path value="$PROJECT_DIR$/public_html/libs/fontawesome-5.0.13/advanced-options/use-with-node-js/fontawesome-free-solid/package.json" />
+      <path value="$PROJECT_DIR$/public_html/libs/fontawesome-5.0.13/advanced-options/use-with-node-js/fontawesome-free-webfonts/package.json" />
+      <path value="$PROJECT_DIR$/public_html/libs/fontawesome-5.0.13/advanced-options/use-with-node-js/fontawesome/package.json" />
+      <path value="$PROJECT_DIR$/public_html/libs/jquery-searchable-master/package.json" />
+      <path value="$PROJECT_DIR$/public_html/libs/jquery/package.json" />
+      <path value="$PROJECT_DIR$/public_html/libs/socket.io-client-master/package.json" />
+      <path value="$PROJECT_DIR$/public_html/libs/toastr-master/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="width" value="1119" />
+    <option name="height" value="929" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SocialApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocialApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SocialApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocialApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SocialApplication" type="cbb8eebc:String" user="SocialApplication" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SocialApplication" type="cbb8eebc:String" user="SocialApplication" />
+              <item name="public_html" type="cbb8eebc:String" user="public_html" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SocialApplication" type="cbb8eebc:String" user="SocialApplication" />
+              <item name="public_html" type="cbb8eebc:String" user="public_html" />
+              <item name="css" type="cbb8eebc:String" user="css" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SocialApplication" type="cbb8eebc:String" user="SocialApplication" />
+              <item name="public_html" type="cbb8eebc:String" user="public_html" />
+              <item name="js" type="cbb8eebc:String" user="js" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SocialApplication" type="cbb8eebc:String" user="SocialApplication" />
+              <item name="public_html" type="cbb8eebc:String" user="public_html" />
+              <item name="js" type="cbb8eebc:String" user="js" />
+              <item name="controller" type="cbb8eebc:String" user="controller" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SocialApplication" type="cbb8eebc:String" user="SocialApplication" />
+              <item name="public_html" type="cbb8eebc:String" user="public_html" />
+              <item name="libs" type="cbb8eebc:String" user="libs" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SocialApplication" type="cbb8eebc:String" user="SocialApplication" />
+              <item name="public_html" type="cbb8eebc:String" user="public_html" />
+              <item name="views" type="cbb8eebc:String" user="views" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="mac&#9;ACTION&#9;MacrosGroup&#10;plug&#9;ACTION&#9;WelcomeScreen.Plugins" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533058972475" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Harrys\IdeaProjects\SocialApplication\public_html\libs" />
+      <recent name="C:\intelij-projects\SocialApplication\public_html\libs" />
+      <recent name="C:\Users\Harrys\IdeaProjects\SocialApplication\public_html\img" />
+      <recent name="C:\intelij-projects\SocialApplication" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Harrys\IdeaProjects\SocialApplication\public_html\js\controllers\server_connection\fragments" />
+      <recent name="C:\Users\Harrys\IdeaProjects\SocialApplication\public_html\js\controllers\server_connection" />
+      <recent name="C:\Users\Harrys\IdeaProjects\SocialApplication\public_html\js\controllers\views" />
+      <recent name="C:\intelij-projects\SocialApplication\public_html\js\server_side\helper" />
+      <recent name="C:\intelij-projects\SocialApplication\public_html\js\server_side" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SocialApplication/public_html/libs/jquery-navobile-master/examples/barebones/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:57008/SocialApplication/public_html/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SocialApplication/public_html/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="458c12d5-8a2a-4786-944b-0cf539fb2525" name="Default" comment="" />
+      <created>1529917687878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529917687878</updated>
+      <workItem from="1529917689275" duration="7302000" />
+      <workItem from="1529925683421" duration="203000" />
+      <workItem from="1529925897038" duration="1956000" />
+      <workItem from="1529927975729" duration="1175000" />
+      <workItem from="1529934717063" duration="27036000" />
+      <workItem from="1530001503797" duration="12913000" />
+      <workItem from="1530020307015" duration="19852000" />
+      <workItem from="1530084691016" duration="2143000" />
+      <workItem from="1530107454026" duration="14000" />
+      <workItem from="1530107487440" duration="8000" />
+      <workItem from="1530120565072" duration="11260000" />
+      <workItem from="1530138344059" duration="616000" />
+      <workItem from="1530169943767" duration="6989000" />
+      <workItem from="1530212004125" duration="958000" />
+      <workItem from="1530256546245" duration="10279000" />
+      <workItem from="1530287280287" duration="1539000" />
+      <workItem from="1530303773425" duration="753000" />
+      <workItem from="1530377168631" duration="1198000" />
+      <workItem from="1530690119363" duration="23611000" />
+      <workItem from="1530795947854" duration="21000" />
+      <workItem from="1531166619640" duration="150000" />
+      <workItem from="1531209047573" duration="363000" />
+      <workItem from="1531567218480" duration="1884000" />
+      <workItem from="1531590450753" duration="3029000" />
+      <workItem from="1531606422017" duration="1375000" />
+      <workItem from="1531796837217" duration="7395000" />
+      <workItem from="1531809787333" duration="13186000" />
+      <workItem from="1531844118649" duration="7173000" />
+      <workItem from="1531896725917" duration="19699000" />
+      <workItem from="1532016835761" duration="14000" />
+      <workItem from="1532019178065" duration="10482000" />
+      <workItem from="1532073095778" duration="11955000" />
+      <workItem from="1532090339620" duration="18804000" />
+      <workItem from="1532125504281" duration="8009000" />
+      <workItem from="1532172633868" duration="16022000" />
+      <workItem from="1532260390843" duration="2442000" />
+      <workItem from="1532328434299" duration="12504000" />
+      <workItem from="1532355138798" duration="16723000" />
+      <workItem from="1532416399908" duration="9719000" />
+      <workItem from="1532440974314" duration="10649000" />
+      <workItem from="1532510171643" duration="28269000" />
+      <workItem from="1532603956454" duration="17546000" />
+      <workItem from="1532674384153" duration="4054000" />
+      <workItem from="1532680615423" duration="817000" />
+      <workItem from="1532681731779" duration="239000" />
+      <workItem from="1532682019895" duration="139000" />
+      <workItem from="1532682198187" duration="11184000" />
+      <workItem from="1532819465573" duration="7428000" />
+      <workItem from="1532863724687" duration="2087000" />
+      <workItem from="1532900100234" duration="19000" />
+      <workItem from="1532918495925" duration="19000" />
+      <workItem from="1532940369543" duration="826000" />
+      <workItem from="1532941601571" duration="13136000" />
+      <workItem from="1532990585276" duration="18083000" />
+      <workItem from="1534899339001" duration="20000" />
+      <workItem from="1534957280035" duration="1528000" />
+      <workItem from="1537116114937" duration="201000" />
+      <workItem from="1538140390561" duration="1406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="408558000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10346667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.17102396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31344903" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924472" weight="0.4186551" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2158516" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.43383947" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28416485" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007553" side_tool="true" weight="0.19866444" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32930514" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32889125" />
+      <window_info anchor="right" id="SciView" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/UpdateUserService.js" />
+    <entry file="file://$PROJECT_DIR$/public_html/js/functions/FormHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/EditProfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2139">
+          <caret line="93" column="56" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/server_connection/fragments/GlobalFriendsConnection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/fragments/GlobalConversation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/Paging.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/views/menu_profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="34" column="14" lean-forward="true" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/views/global_friends.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/GlobalUsersService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/views/global_users.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/ImagingServices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/views/menu_recommended_users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4552" selection-start-line="4" selection-start-column="4552" selection-end-line="4" selection-end-column="4552" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/libs/bootstrap-3.3.7-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="3008" column="23" selection-start-line="3008" selection-start-column="23" selection-end-line="3008" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/views/menu_friend_requests.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/fragments/GlobalFriends.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="79" column="38" selection-start-line="60" selection-start-column="7" selection-end-line="79" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/models/Announcement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/models/AnnouncementsLikes.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/models/Imaging.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/models/FriendRequest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1517">
+          <caret line="68" column="26" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/UsersService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/models/Friend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/SuggestedUsersService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/AnnouncementsService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/FriendsService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/RemoveFriendService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/AddFriendService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="44" lean-forward="true" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/MenuProfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="53" column="27" lean-forward="true" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/MenuRecommendedUsers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/MenuFriends.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="49" column="54" lean-forward="true" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/FriendRequestsService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/DeclineFriendRequestService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/menu_controller/MenuFriendRequest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="54" column="66" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/models/Message.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/AllModelsService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1909">
+          <caret line="83" column="75" selection-start-line="83" selection-start-column="75" selection-end-line="83" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/AnnouncementLikesService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/AddAnnouncementLikeService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/MessagesService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="107" selection-start-line="106" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/models/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="151" column="21" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/Chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="73" column="64" selection-start-line="73" selection-start-column="64" selection-end-line="73" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/views/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="37" column="86" selection-start-line="37" selection-start-column="86" selection-end-line="37" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/LoginService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/ConnectionAjax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/connection/services/AcceptFriendRequestService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/controllers/server_connection/fragments/ChatConnection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/database_helper/Instances.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/js/database_helper/Database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="90" column="42" lean-forward="true" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SocialApplication</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta name="format-detection" content="telephone=no">
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+
+    <link rel="stylesheet" href="css/themes/social_appy_theme.css"/>
+    <link rel="stylesheet" href="css/themes/jquery.mobile.icons.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="libs/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" type="text/css" href="libs/bootstrap-3.3.7-dist/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="libs/bootstrap-datetimepicker-master/css/bootstrap-datetimepicker.css">
+    <link rel="stylesheet" type="text/css" href="libs/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.css">
+    <link rel="stylesheet" type="text/css" href="libs/toastr-master/toastr.css">
+    <link rel="stylesheet" type="text/css" href="libs/xpull-master/xpull.css"/>
+    <link rel="stylesheet" type="text/css" href="css/views-style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/loader-style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/login-signup-style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/contant-list.css"/>
+    <link rel="stylesheet" type="text/css" href="css/conversation-style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/chat-style.css"/>
+
+    <!-- LIBRARIES JS-->
+
+
+</head>
+<body>
+
+<div data-role="page" class="background-img ui-page-theme-b" data-url="index.html">
+
+    <div class="container__loader">
+        <div class="new-loader">
+            <div class="new-loader__ring1">
+                <div class="new-loader__ring2">
+                    <div class="new-loader__ring3"></div>
+                </div>
+            </div>
+        </div>
+        <p>Loading...</p>
+    </div>
+
+</div>
+<!--inlcuded wannabe frameworks-->
+<script type="text/javascript" src="libs/jquery/dist/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="libs/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.js"></script>
+<script type="text/javascript" src="libs/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="libs/bootstrap-datetimepicker-master/js/bootstrap-datetimepicker.js"></script>
+<script type="text/javascript" src="libs/bootstrap-datetimepicker-master/js/locales/bootstrap-datetimepicker.el.js"
+        charset="UTF-8"></script>
+<script type="text/javascript" src="libs/toastr-master/toastr.js"></script>
+<script type="text/javascript" src="libs/xpull-master/xpull.js"></script>
+<script type="text/javascript" src="libs/moment.js"></script>
+<script type="text/javascript" src="libs/socket.io-client-master/dist/socket.io.js"></script>
+<script type="text/javascript" src="libs/jquery-searchable-master/jquery.searchable.js"></script>
+
+
+<script type="text/javascript" src="libs/sugar.js"></script>
+
+<!-- DATABASE MODELS -->
+
+<script type="text/javascript" src="js/models/Model.js"></script>
+<script type="text/javascript" src="js/models/User.js"></script>
+<script type="text/javascript" src="js/models/UserType.js"></script>
+<script type="text/javascript" src="js/models/Friend.js"></script>
+<script type="text/javascript" src="js/models/FriendStatus.js"></script>
+<script type="text/javascript" src="js/models/FriendType.js"></script>
+<script type="text/javascript" src="js/models/Imaging.js"></script>
+<script type="text/javascript" src="js/models/Announcement.js"></script>
+<script type="text/javascript" src="js/models/AnnouncementsLikes.js"></script>
+<script type="text/javascript" src="js/models/Conversation.js"></script>
+<script type="text/javascript" src="js/models/ConversationParticipants.js"></script>
+<script type="text/javascript" src="js/models/Message.js"></script>
+<script type="text/javascript" src="js/models/FriendRequest.js"></script>
+<!--<script type="text/javascript" src="js/models/ConversationMessages.js"></script>-->
+
+<!-- -->
+
+<!--Functions -->
+<script type="text/javascript" src="js/functions/FormHelper.js"></script>
+<script type="text/javascript" src="js/functions/Functions.js"></script>
+<script type="text/javascript" src="js/functions/EncodeToBase64.js"></script>
+
+<!--End Of Functions -->
+
+<!--Connection -->
+<script type="text/javascript" src="js/connection/ConnectionAjax.js"></script>
+<script type="text/javascript" src="js/connection/services/LoginService.js"></script>
+<script type="text/javascript" src="js/connection/services/SignupService.js"></script>
+<script type="text/javascript" src="js/connection/services/AllModelsService.js"></script>
+<script type="text/javascript" src="js/connection/services/SuggestedUsersService.js"></script>
+<script type="text/javascript" src="js/connection/services/AnnouncementsService.js"></script>
+<script type="text/javascript" src="js/connection/services/AnnouncementLikesService.js"></script>
+<script type="text/javascript" src="js/connection/services/AddAnnouncementLikeService.js"></script>
+<script type="text/javascript" src="js/connection/services/RemoveAnnouncementLikeService.js"></script>
+<script type="text/javascript" src="js/connection/services/MessagesService.js"></script>
+<script type="text/javascript" src="js/connection/services/AddAnnouncementService.js"></script>
+<script type="text/javascript" src="js/connection/services/FriendRequestsService.js"></script>
+<script type="text/javascript" src="js/connection/services/UsersService.js"></script>
+<script type="text/javascript" src="js/connection/services/RemoveFriendService.js"></script>
+<script type="text/javascript" src="js/connection/services/FriendsService.js"></script>
+<script type="text/javascript" src="js/connection/services/AddFriendService.js"></script>
+<script type="text/javascript" src="js/connection/services/AcceptFriendRequestService.js"></script>
+<script type="text/javascript" src="js/connection/services/DeclineFriendRequestService.js"></script>
+<!--End Of Connection-->
+
+<!--~~~Controllers~~~-->
+<script type="text/javascript" src="js/Controller.js"></script>
+<script type="text/javascript" src="js/controllers/views/Loader.js"></script>
+<script type="text/javascript" src="js/controllers/views/Signup.js"></script>
+<script type="text/javascript" src="js/controllers/views/Login.js"></script>
+<script type="text/javascript" src="js/controllers/views/Main.js"></script>
+<script type="text/javascript" src="js/controllers/views/Chat.js"></script>
+<script type="text/javascript" src="js/controllers/views/menu_controller/MenuProfile.js"></script>
+<script type="text/javascript" src="js/controllers/views/menu_controller/MenuFriends.js"></script>
+<script type="text/javascript" src="js/controllers/views/menu_controller/MenuRecommendedUsers.js"></script>
+<script type="text/javascript" src="js/controllers/views/menu_controller/EditProfile.js"></script>
+<script type="text/javascript" src="js/controllers/views/fragments/GlobalConversation.js"></script>
+<script type="text/javascript" src="js/controllers/views/fragments/GlobalFriends.js"></script>
+<script type="text/javascript" src="js/controllers/views/menu_controller/MenuFriendRequest.js"></script>
+<!--End of Controllers-->
+
+<!--Server Connection-->
+<script type="text/javascript" src="js/controllers/server_connection/ServerConnection.js"></script>
+<script type="text/javascript" src="js/controllers/server_connection/fragments/GlobalFriendsConnection.js"></script>
+<script type="text/javascript" src="js/controllers/server_connection/fragments/ChatConnection.js"></script>
+
+<!--End of Server Connection-->
+
+<!-- main javascript files-->
+
+<script type="text/javascript" src="js/functions/Toast.js"></script>
+<script type="text/javascript" src="js/database_helper/Instances.js"></script>
+<script type="text/javascript" src="js/Device.js"></script>
+<script type="text/javascript" src="js/Paging.js"></script>
+<script type="text/javascript" src="js/database_helper/SharedPreferences.js"></script>
+<script type="text/javascript" src="js/database_helper/Database.js"></script>
+<script type="text/javascript" src="js/functions/Utilities.js"></script>
+<script type="text/javascript" src="js/Master.js"></script>
+
+
+</body>
+</html>

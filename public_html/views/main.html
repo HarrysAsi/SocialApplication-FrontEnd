@@ -1,0 +1,53 @@
+<div data-role="page" class="main-page ui-page-theme-d">
+    <div data-role='header' data-theme="d">
+        <a href="#" id="menu_button" data-toggle="collapse" data-target=".navbar-collapse"
+           class="ui-btn ui-shadow ui-corner-all ui-icon-bars ui-btn-icon-notext">
+        </a>
+        <h1 class="title"> Social Appy </h1>
+        <a href="#" id="menu_notification" data-toggle="collapse"
+           class="ui-btn ui-shadow ui-corner-all ui-icon-tag ui-btn-icon-notext">
+        </a>
+    </div>
+
+    <div role="main" class="ui-content">
+        <!--MENU-->
+        <div class="collapse navbar-collapse navbar-default-custom">
+            <ul class="nav navbar-nav">
+                <li id="menu_home"><a href="#">Home</a></li>
+                <li id="menu_profile"><a href="#">Profile</a></li>
+                <li id="menu_friends"><a href="#">My Friends</a></li>
+                <li id="menu_recommended_users"><a href="#">Recommended Users</a></li>
+                <li id="menu_friend_request"><a href="#">Friend Requests</a> </li>
+                <li id="menu_logout"><a href="#">Logout</a></li>
+            </ul>
+        </div>
+        <!--END OF MENU-->
+        <textarea id="content_text" placeholder="What are you thinking?" style="color: #2d2d2d; margin-top: 5%"></textarea>
+            <div class="ui-input-btn ui-btn" style="margin-top: -5% !important; margin-bottom: 5%;">
+                <input id="publish_announcement" type="button" data-enhanced="true" value="Publish" >Publish
+            </div>
+
+            <div class="list-group" id="announcements_list">
+            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">List group item heading</h5>
+                    <small>3 days ago</small>
+                </div>
+                <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius
+                    blandit.</p>
+                <small>Donec id elit non mi porta.</small>
+            </a>
+        </div>
+    </div>
+
+    <div data-role="footer" class="footer" data-theme="b" data-position="fixed" style="position:fixed;bottom:0;">
+        <div data-role="navbar">
+            <ul>
+                <li id="main"><a href="#" class="ui-btn-active"><i class="fas fa-globe fa-3x"></i></a></li>
+                <li id="global_conversation"><a href="#"><i class="far fa-comments fa-3x"></i></a></li>
+                <li id="global_friends"><a href="#"><i class="fas fa-user-friends fa-3x"></i></a></li>
+            </ul>
+        </div>
+    </div>
+
+</div>

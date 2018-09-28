@@ -1,0 +1,89 @@
+body {
+    background: rgba(19, 35, 47, 0.9);
+    min-width: 220px;
+    overflow: auto;
+    overflow-x: visible;
+}
+
+.ui {
+    background: rgba(19, 35, 47, 0.9);
+}
+
+.ui-title {
+    font-size: 3vh !important;
+}
+
+.ui-header {
+    height: 5.5vh !important;
+}
+
+.ui-header .ui-title {
+    padding: 1vh !important;
+    margin: 0 !important;
+}
+
+.ui-header .title {
+    font-weight: 500 !important;
+
+}
+
+.ui-content .title {
+    font-weight: 600;
+    margin-bottom: 3vh;
+}
+
+.ui-listview {
+    margin: 0px 0vw 0px 0vw !important;
+
+}
+
+.ui-listview li {
+    margin-top: 0.5vh !important;
+}
+
+.ui-listview li h2 {
+    font-size: 4vw !important;
+    max-width: 100%;
+    overflow: hidden;
+    text-align: center !important;
+}
+
+.subtitle {
+    color: #efefef;
+    font-size: 3vw;
+
+}
+
+.vertical-offset-100 {
+    padding-top: 100px;
+}
+
+.ui-listview li a {
+    border-width: 0 0 0 0 !important;
+}
+
+.back-button-left {
+    margin-top: 10px;
+}
+
+.navbar-default-custom {
+    background-color: #333333;
+}
+
+.navbar-default-custom ul li a {
+    color: white;
+!important;
+    text-shadow: none;
+}
+
+.header-text {
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.content-text {
+    text-align: center;
+    margin-left: -35px;
+    font-size: 16px;
+}

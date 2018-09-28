@@ -1,0 +1,46 @@
+<div data-role="page" class="menu_friends-page ui-page-theme-d">
+    <div data-role='header' data-theme="d">
+        <a href="#" id="menu_button" data-toggle="collapse" data-target=".navbar-collapse"
+           class="ui-btn ui-shadow ui-corner-all ui-icon-bars ui-btn-icon-notext"></a>
+        <h1 class="title"> My Friends </h1>
+    </div>
+
+    <div role="main" class="ui-content">
+        <!--MENU-->
+        <div class="collapse navbar-collapse navbar-default-custom">
+            <ul class="nav navbar-nav">
+                <li id="menu_home"><a href="#">Home</a></li>
+                <li id="menu_profile"><a href="#">Profile</a></li>
+                <li id="menu_friends"><a href="#">My Friends</a></li>
+                <li id="menu_logout"><a href="#">Logout</a></li>
+            </ul>
+        </div>
+        <!--END OF MENU-->
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="panel panel-default">
+                        <ul class="list-group" id="all_friends">
+                            <!--Append items-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <div data-role="footer" class="footer" data-theme="b" data-position="fixed" style="position:fixed;bottom:0;">
+        <div data-role="navbar">
+            <ul>
+                <li><a href="#" id="friends"><i class="fas fa-user-friends fa-3x"></i></a></li>
+                <li id="chat"><a href="#"><i class="fas fa-comments fa-3x"></i></a></li>
+                <li><a href="#" id="online_friends"><i class="fas fa-globe fa-3x"></i></a></li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
